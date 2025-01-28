@@ -5,3 +5,6 @@ print(a+b)
 
 # Hier ben ik aan het inloggen
 print("Ingelogd")
+
+# Contactform
+print("Contact")
